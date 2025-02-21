@@ -79,9 +79,8 @@ Player dapat bermain kata dengan memilih menu ini. Saat player memilih menu ini,
 [kata]_[koordinaStarttX],[koordinatStartY]_[DOWN/DOWN]
 ```
 
-Berikut merupakan contoh dari permainan. (contoh kata terpanjang di dictionary adalah “PRAKTIKUM” yang terdiri dari 9 huruf)
-
-image.png
+Berikut merupakan contoh dari permainan. (contoh kata terpanjang di dictionary adalah “PRAKTIKUM” yang terdiri dari 9 huruf)\
+![image](https://github.com/user-attachments/assets/8c53731a-324e-49b8-a771-f4445070bd64)
 
 DICTIONARY\
 Pada menu ini player dapat melihat list kata yang terdaftar, menambahkan kata maupun menghapus kata. Pada awal permainan, dictionary akan memiliki 10 kata yang sudah terdaftar yaitu PRAKTIKUM, WEEK, ENAM, LAB, EMPAT, MATERI, TUGAS, TENTANG, ARRAY, STRING. Berikut merupakan menu dictionary yang akan muncul ketika menu dictionary dipilih.
